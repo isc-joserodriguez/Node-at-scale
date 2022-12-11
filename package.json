@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/joanrodriguezhe/Node-at-scale#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "node-report": "^2.2.10",
     "prom-client": "^11.5.3",
     "request": "~2.88.0"
